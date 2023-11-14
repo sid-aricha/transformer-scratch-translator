@@ -1,1 +1,1 @@
-# transformer-scratch-translator
+# A Translator Transformer from scratch
